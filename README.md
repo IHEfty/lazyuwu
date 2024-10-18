@@ -1,6 +1,6 @@
 # lazyuwu
 
-**lazyuwu** is a utility package designed for the [**Tender**](https://github.com/2dprototype/tender-free) programming language, offering a suite of functions to streamline mathematical computations, string manipulations, file operations, and console text formatting. Its primary goal is to enhance developer productivity and simplify common tasks in the Tender environment.
+**lazyuwu** is a utility package designed for the [**Tender**](https://github.com/2dprototype/tender-free), offering a suite of functions to streamline mathematical computations, string manipulations, file operations, and console text formatting. Its primary goal is to enhance developer productivity and simplify common tasks in the Tender environment.
 
 ## Features
 
