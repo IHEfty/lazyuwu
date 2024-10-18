@@ -87,9 +87,8 @@ export {
         color_name = strings.to_lower(color_name)
         str := color[color_name]
 
-        // Check if the color is defined
         if str == null {
-            str = "" // Set to empty string if color is not found
+            str = "" 
         }
 
         for i, a in args {
@@ -100,15 +99,14 @@ export {
             }
         }
         str += color.reset
-        sysout str // Use sysout to print the string
+        sysout str 
     },
     printCln : fn(color_name, ...args) {
         color_name = strings.to_lower(color_name)
         str := color[color_name]
 
-        // Check if the color is defined
         if str == null {
-            str = "" // Set to empty string if color is not found
+            str = "" 
         }
 
         for i, a in args {
@@ -119,6 +117,6 @@ export {
             }
         }
         str += color.reset + "\n"
-        sysout str // Use sysout to print the string with a newline
+        sysout str
     }
 }
