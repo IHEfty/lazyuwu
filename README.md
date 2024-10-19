@@ -14,7 +14,7 @@
 Follow these steps to set up the `lazyuwu` package in your Tender environment:
 
 1. **Download Tender**: 
-   - Download the Tender programming language from the [Tender GitHub repository](https://github.com/2dprototype/tender-free).
+   - Download the Tender programming language from the [Tender GitHub repository](https://github.com/2dprototype/tender).
 
 2. **Install Tender**: 
    - Extract the downloaded package and navigate to the folder.
